@@ -1,4 +1,4 @@
-# Best Neighborhood Group Project - Team Car
+# Best Neighborhood Group Project - Team Car Safety
 The goal of this project was to come up with a data-backed answer for what the best neighborhood in Pittsburgh is, this was accomplished through the use of one large metric (car safety) and multiple submetrics (level of speed limit enforcement and speed control, level of proactive safety infrastructure, and level of technological progression in traffic control). 
 ## Team Members
 Polly Naneva - pin7@pitt.edu
