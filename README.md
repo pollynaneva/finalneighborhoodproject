@@ -4,6 +4,8 @@ The goal of this project was to come up with a data-backed answer for what the b
 Polly Naneva - pin7@pitt.edu
 Veronica Makowski - vem76@pitt.edu
 Geffen Feldman - gtf16@pitt.edu
+## Canvas Group Number
+Group 12
 ## Datasets Used 
 ### https://data.wprdc.org/dataset/city-traffic-signs/resource/d078a6b5-83a3-4723-a3a9-5371cfe1cc0c
 This dataset explores data on the Traffic and safety signs in each neighborhood. Neighborhoods with more safety-oriented signage are "better" because they have better-controlled traffic flow, prioritize pedestrian safety, are more family-friendly, and show city investment in resident safety. A traffic safety sign is a visual indicator placed throughout neighborhoods to control traffic flow, warn drivers of hazards, and protect pedestrians. Examples include stop signs that control intersections, "Watch Children" signs in residential areas, speed limit signs, pedestrian crossing signs, and yield signs. The more traffic safety signs a neighborhood has, the more controlled and regulated the traffic is. This means that the likelihood of accidents is decreased, meaning pedestrians and non-car users are safer! The submetric presented in this dataset is therefore the, "level of proactive safety infrastructure".
